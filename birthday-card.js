@@ -27,7 +27,7 @@ class BirthdayCard extends HTMLElement {
 	
 		
 		var birthdayList=[
-			{name:"Adam", day:17, month:2, year:1990},
+			{name:"Bon", day:17, month:2, year:1990},
 			{name:"Amanda", day:2, month:3, year:1967},
 			{name:"Grandfather", day:16, month:2, year:1927, s:1},
 			{name:"Gladys", day:10, month:2, year:1967},
